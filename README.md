@@ -16,7 +16,7 @@ Ubuntu / Windows
     $ curl -sL https://deb.nodesource.com/setup | sudo bash -
     $ sudo apt-get install nodejs
 
-Clone the git repo:
+Clone the git repo
 
     $ git clone https://github.com/nguyenbinhanltv/BrowserQuest.git
     $ cd BrowserQuest
